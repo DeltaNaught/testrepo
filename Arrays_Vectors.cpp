@@ -3,6 +3,11 @@
 
 using namespace std;
 
+//This is a single-line comment
+
+/*This is a muli-line
+comment*/
+
 int main(int argc, char argv[])
 {
 
